@@ -1,3 +1,4 @@
+#This is me Shivam Mehta
 '''
 class MAddresstype(models.Model):
     pk_addresstypeid = models.CharField(db_column='Pk_addressTypeID', primary_key=True, max_length=36)  # Field name 
